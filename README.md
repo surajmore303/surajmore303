@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- TERMINAL BOOT SEQUENCE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=8B5CF6&width=800&height=30&lines=>_INIT+OS...;>_LOADING+AI_MODULES...;>_AUTHENTICATING_USER...;>_ACCESS+GRANTED" alt="Terminal Boot Sequence" />
+</p>
+
 <!-- HERO SECTION -->
 <picture>
   <img src="assets/banner/hero.png" width="100%" alt="Suraj More Hero Banner" style="border-radius: 20px; border: 1px solid #22D3EE;" />
@@ -192,6 +197,16 @@
 
 <div align="center">
   <img src="assets/svg/divider-line.svg" width="100%" />
+</div>
+
+<!-- TROPHIES -->
+<h2 align="center">🏆 Developer Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajmore303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<div align="center">
+  <img src="assets/svg/divider-wave.svg" width="100%" />
 </div>
 
 <!-- ADVANCED ANALYTICS -->
