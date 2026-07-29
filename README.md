@@ -6,9 +6,6 @@
 </p>
 
 <!-- HERO SECTION -->
-<picture>
-  <img src="assets/banner/hero.png" width="100%" alt="Suraj More Hero Banner" style="border-radius: 20px; border: 1px solid #22D3EE;" />
-</picture>
 
 <br><br>
 
