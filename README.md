@@ -32,7 +32,7 @@
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="30%" align="center" style="border: none;">
-      <img src="assets/avatar/profile.png" width="80%" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0px 0px 20px #8B5CF6;" alt="Suraj More Avatar" />
+      <img src="assets/avatar/suraj.jpeg" width="80%" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0px 0px 20px #8B5CF6;" alt="Suraj More Avatar" />
     </td>
     <td width="70%" style="border: none; padding-left: 20px;">
       <h2 style="color: #F8FAFC;">👨‍💻 Architecting the Future of Intelligence</h2>
@@ -202,7 +202,7 @@
 <!-- TROPHIES -->
 <h2 align="center">🏆 Developer Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajmore303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surajmore303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
 </p>
 
 <div align="center">
@@ -213,12 +213,12 @@
 <h2 align="center">📈 Real-Time GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajmore303&show_icons=true&theme=tokyonight&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=f0f0f0&border_color=22D3EE&border_radius=20" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmore303&theme=tokyonight&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&border=22D3EE&border_radius=20" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajmore303&show_icons=true&theme=tokyonight&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=f0f0f0&border_color=22D3EE&border_radius=20&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmore303&theme=tokyonight&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&border=22D3EE&border_radius=20&v=1" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmore303&layout=compact&theme=tokyonight&bg_color=050816&title_color=38BDF8&text_color=f0f0f0&border_color=22D3EE&border_radius=20" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmore303&layout=compact&theme=tokyonight&bg_color=050816&title_color=38BDF8&text_color=f0f0f0&border_color=22D3EE&border_radius=20&v=1" alt="Top Languages" width="60%" />
 </p>
 
 <!-- Metrics Plugin Placeholders -->
