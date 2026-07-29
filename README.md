@@ -210,18 +210,15 @@
 </div>
 
 <!-- ADVANCED ANALYTICS -->
-<h2 align="center">📈 Real-Time GitHub Analytics</h2>
+<h2 align="center">📈 Engineering Metrics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajmore303&show_icons=true&theme=tokyonight&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=f0f0f0&border_color=22D3EE&border_radius=20&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmore303&theme=tokyonight&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&border=22D3EE&border_radius=20&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Commits_This_Year-500%2B-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8&border=38BDF8" />
+  <img src="https://img.shields.io/badge/Current_Streak-Active-0B1120?style=for-the-badge&logo=git&logoColor=8B5CF6&border=8B5CF6" />
+  <img src="https://img.shields.io/badge/Top_Languages-TS_%7C_JS_%7C_Python-0B1120?style=for-the-badge&logo=codeigniter&logoColor=22D3EE&border=22D3EE" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmore303&layout=compact&theme=tokyonight&bg_color=050816&title_color=38BDF8&text_color=f0f0f0&border_color=22D3EE&border_radius=20&v=1" alt="Top Languages" width="60%" />
-</p>
-
-<!-- Metrics Plugin Placeholders -->
+<!-- Metrics Plugin Placeholders (Requires METRICS_TOKEN) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/surajmore303/surajmore303/main/github-metrics.svg" onerror="this.style.display='none'" width="100%" />
 </p>
@@ -237,8 +234,8 @@
 
 <!-- FOOTER SECTION -->
 <div align="center">
-  <h2>🎧 Currently Listening To</h2>
-  <a href="https://spotify.com"><img src="https://novatorem-readme-spotify.vercel.app/api/spotify?background_color=050816&border_color=38BDF8&title_color=F8FAFC&subtitle_color=8B5CF6" /></a>
+  <h2>🚀 Ready to Build the Future?</h2>
+  <a href="mailto:surajmore7858@gmail.com"><img src="https://img.shields.io/badge/Let's_Collaborate-0B1120?style=for-the-badge&logo=minutemailer&logoColor=22D3EE&border=38BDF8" /></a>
   
   <br><br>
 
